@@ -1,4 +1,4 @@
-import { model } from 'mongoose';
+// import { model } from 'mongoose';
 
 // user.js
 var mongoose = require('mongoose');
